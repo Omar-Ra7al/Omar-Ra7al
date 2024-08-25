@@ -33,6 +33,9 @@ I'm a passionate front-end developer with a strong foundation in web technologie
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next-dot-js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
+### 💼 Webmaster Internship
+I am currently working in a Webmaster Internship
+
 ## 🚀 Currently Learning
 - **Next.js**: Building server-rendered React applications.
 - **TypeScript**: Bringing static type definitions to JavaScript.
