@@ -1,9 +1,7 @@
-# 👋 Hello, I'm Omar!
-
+# Hi there <img src="https://raw.githubusercontent.com/umenzi/umenzi/main/wave.gif" width="30px">
+<img src="https://github.com/Omar-Ra7al/Omar-Ra7al/blob/main/Who%20I%E2%80%99m%20I%20(5).gif?raw=true" width="350" height="350" alt="Coding GIF">
 ## 💫 About Me
 I'm a passionate front-end developer with a strong foundation in web technologies. Currently, I'm diving deeper into Next.js and TypeScript to expand my toolkit. I love creating user-friendly and interactive web applications that leave a lasting impression.
-
-<img src="https://github.com/Omar-Ra7al/Omar-Ra7al/blob/main/Who%20I%E2%80%99m%20I%20(5).gif?raw=true" width="350" height="350" alt="Coding GIF">
 
 ## 🌐 Connect with Me
 <a href="https://facebook.com/omar.uwk.547" target="_blank">
