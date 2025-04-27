@@ -36,6 +36,5 @@ I'm a passionate front-end developer with a strong foundation in web technologie
 ### 💼 Webmaster Internship
 I am currently working in a Webmaster Internship
 
-## 🚀 Currently Learning
-- **Next.js**: Building server-rendered React applications.
-- **TypeScript**: Bringing static type definitions to JavaScript.
+## 🚀 Portfolio 
+<a href="https://omarrahal.vercel.app" target="_blank">omarrahal.vercel.app</a>
